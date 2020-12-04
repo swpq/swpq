@@ -1,21 +1,31 @@
-Well, hello there.
-
-I am a 13 year old learning to code.
+### A 13 year old learning to code.
 
 Languages I currently know:
-    - C#
-    - Java
-    - (Node)JS
-    - HTML (if you count that as one)
-    - CSS (if you count that as one)
+    <br>
+    - C#
+    <br>
+    - Java
+		<br>
+    - (Node)JS
+    <br>
+    - HTML (if you count that as one)
+    <br>
+    - CSS (if you count that as one)
 
 My current projects:
-    - OAEssentials
-    - FoshClient (A utility client aimed at anarchy servers)
-    and more that I can't tell you about.
+    <br>
+    - OAEssentials
+    <br>
+    - FoshClient (A utility client aimed at anarchy servers)
+    <br>
+    and more that I can't tell you about.
 
 My current "work":
-    - OpenAnarchy
-        - daaaabears owns the server
-        - A cracked anarchy server for those without a Mojang account
-        - openanarchy.cf
+    <br>
+    - OpenAnarchy
+        <br>
+        - daaaabears owns the server
+        <br>
+        - A cracked anarchy server for those without a Mojang account
+        <br>
+        - openanarchy.cf
