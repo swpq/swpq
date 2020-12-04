@@ -1,16 +1,21 @@
-### Hi there 👋
+Well, hello there.
 
-<!--
-**SWP360/SWP360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 13 year old learning to code.
 
-Here are some ideas to get you started:
+Languages I currently know:
+    - C#
+    - Java
+    - (Node)JS
+    - HTML (if you count that as one)
+    - CSS (if you count that as one)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current projects:
+    - OAEssentials
+    - FoshClient (A utility client aimed at anarchy servers)
+    and more that I can't tell you about.
+
+My current "work":
+    - OpenAnarchy
+        - daaaabears owns the server
+        - A cracked anarchy server for those without a Mojang account
+        - openanarchy.cf
