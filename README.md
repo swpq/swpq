@@ -8,6 +8,8 @@ Languages I currently know:
   <br>
   - (Node)JS
   <br>
+  - Lua
+  <br>
   - HTML (if you count that as one)
   <br>
   - CSS (if you count that as one)
