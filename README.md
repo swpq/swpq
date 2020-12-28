@@ -1,4 +1,4 @@
-### A 13 year old learning to code.
+### An 8 year old learning to code.
 
 Languages I currently know:
   <br>
