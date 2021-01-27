@@ -16,18 +16,8 @@ Languages I currently know:
 
 My current projects:
   <br>
-  - OAEssentials
+  - Calamity (A utility client aimed at certain servers)
+  <br>
   <br>
   - FoshClient (A utility client aimed at anarchy servers)
   <br>
-  and more that I can't tell you about.
-
-My current "work":
-  <br>
-  - OpenAnarchy
-      <br>
-      - daaaabears owns the server
-      <br>
-      - A cracked anarchy server for those without a Mojang account
-      <br>
-      - openanarchy.cf
