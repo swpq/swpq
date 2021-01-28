@@ -18,6 +18,5 @@ My current projects:
   <br>
   - Calamity (A utility client aimed at certain servers)
   <br>
-  <br>
   - FoshClient (A utility client aimed at anarchy servers)
   <br>
