@@ -1,5 +1,7 @@
 ### An 8 year old learning to code.
 
+![](https://counter.gofiber.io/badge/SWP360/SWP360)
+
 Languages I currently know:
   <br>
   - C#
