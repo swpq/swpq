@@ -9,5 +9,5 @@
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/><span></span>
 	</br>
 	</br>
-	<img src="https://counter.gofiber.io/badge/SWP360/SWP360" alt="View Counter"/>
+	<img src="https://komarev.com/ghpvc/?username=SWP360" alt="View Counter"/>
 </div>
