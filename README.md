@@ -9,8 +9,6 @@
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/><span></span>
 	<br>
 	<img src="https://komarev.com/ghpvc/?username=SWP360&style=flat-square" alt="View Counter"/>
-	<img src="https://komarev.com/ghpvc/?username=SWP360&style=flat-square" alt="View Counter"/>
-	<img src="https://swpbot1.tk/chiyung.png" alt="ChiyungBoy"/>
 	<br>
 	<br>
 	<br>
