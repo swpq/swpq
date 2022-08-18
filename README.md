@@ -1,4 +1,4 @@
-<h1 align="center">SWP360 - Developer</h1>
+<h1 align="center">swp - Developer</h1>
 <div align="center">
 	<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/><span></span>
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/><span></span>
